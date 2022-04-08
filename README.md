@@ -1,2 +1,1 @@
-# gitpractise
-This is a Practise Git repository
+Practise Repository
